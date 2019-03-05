@@ -1,1 +1,1 @@
-![wearther-application](display/part1.gif)
+![wearther-application](part2.gif)
